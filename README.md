@@ -32,4 +32,7 @@ This Project works when the system detects alcohol or drowsiness the system auto
 - adjust the camera to driver seat and also the MQ-3 sensor
 - setup the 24v engine shutoff solenoid to the jeepney 
 - connect the relay to the transistor
-- (optional) if the octocupler doesn't work then it's fine just remove it and make a common ground (raspi and jeepney ground connected to work but expect some glitch)
+- (optional) if the octocupler doesn't work then it's fine just remove it and make a common ground (raspi and jeepney ground connected to work but expect some glitch).
+
+## Credits
+Used the shape_predictor_68_face_landmarks.dat for eye detection
