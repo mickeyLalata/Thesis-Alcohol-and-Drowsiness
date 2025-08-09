@@ -1,5 +1,5 @@
 # Thesis-Alcohol-and-Drowsiness
-this is a thesis project in PUP for alcohol and drowsiness for PUJ and this contains not optimized system but working
+this is a thesis project in PUP for alcohol and drowsiness for PUJ and this contains not optimized system but working (I also made the whole hardware and software of this system)
 
 this project is used in a 24v traditional jeepney in Philippines
 
